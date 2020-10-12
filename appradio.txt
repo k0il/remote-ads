@@ -1,4 +1,4 @@
 {
-  "jenis_ads": "1"
+  "jenis_ads": "3"
 }
 
